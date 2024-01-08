@@ -11,13 +11,14 @@
   text-align: right;
 }
 .title__caption {
-    display: none;
+  display: none;
 }
 .title__image {
   width: 100%;
 }
 .title__more-info {
   font-family: fantasy, cursive;
+  text-align: right;
 }
 
 @media (max-width:768px) {
@@ -140,7 +141,7 @@
 }
 
 /* Edit Task */
-.input-text {
+.list-item .input-text {
   display: none;
 }
 
